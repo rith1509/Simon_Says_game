@@ -1,4 +1,4 @@
-# 🧠 Simon Says - AI Mode Game
+# 🧠 Simon Says - Game
 
 A modern, interactive version of the classic **Simon Says** game, built with **HTML, CSS, and JavaScript**. This project includes both **manual** and **AI autoplay** modes, making it fun for users and a great coding project for developers. The AI plays the game at different speeds based on your chosen settings!
 
